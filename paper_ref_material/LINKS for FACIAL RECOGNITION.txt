@@ -1,0 +1,5 @@
+https://facedetection.com/
+
+http://www.face-rec.org/algorithms/
+
+http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
